@@ -1,0 +1,22 @@
+.fondo_principal {
+    background-color: aliceblue;
+}
+
+.lista_recetas {
+    width: 250px;
+    border: 2px solid;
+    background-color: bisque;
+}
+
+.fuente {
+    font-size: large;
+}
+
+.Imagenes_receta {
+    width: 600px;
+}
+
+.separador {
+    height: 5px;
+    background-color: blue;
+}
