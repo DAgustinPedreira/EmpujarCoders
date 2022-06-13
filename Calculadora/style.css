@@ -1,0 +1,44 @@
+table, td, tr {
+    border: 1px solid black;
+}
+
+.rectangulo {
+    border: 2px solid black;
+    background-color: grey;
+    border-color: yellow;
+    
+    width: 138px;
+    height: 65px;
+}
+
+.numeros {
+    background-color:lightblue;
+}
+
+button {
+    border-radius: 50%;
+}
+
+.borrar {
+    background-color: red;
+    border-color: yellow;
+}
+
+.C {
+    background-color: black;
+    color: yellow;
+}
+
+.azul_oscuro {
+    background-color: blue;
+    border-color: lightblue;
+}
+
+.celeste {
+    background-color: lightblue;
+    border-color: blue;
+}
+
+.ContornoC {
+    border-color: yellow;
+}
