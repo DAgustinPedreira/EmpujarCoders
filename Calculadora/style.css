@@ -1,18 +1,9 @@
-table, td, tr {
-    border: 1px solid black;
-}
-
 .rectangulo {
     border: 2px solid black;
-    background-color: grey;
-    border-color: yellow;
-    
-    width: 138px;
+    background-color: lightslategray;
+    border-color: yellow; 
+    width: 132px;
     height: 65px;
-}
-
-.numeros {
-    background-color:lightblue;
 }
 
 button {
@@ -31,14 +22,19 @@ button {
 
 .azul_oscuro {
     background-color: blue;
-    border-color: lightblue;
+    border-color: cyan;
 }
 
 .celeste {
-    background-color: lightblue;
+    background-color: cyan;
     border-color: blue;
 }
 
 .ContornoC {
     border-color: yellow;
 }
+
+.centro {
+    padding-right: 10px;
+}
+
